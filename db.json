@@ -27,8 +27,24 @@
         "description": "This little piece of art will explain to you",
         "src": "https://www.youtube.com/watch?list=PLUndIPKSZI5SmSDk4n7G-zCd9R4aSRUI8&v=91DWqqrPCEU"
   },
-  "testPost": {
-    "id": 42,
-    "value": "You just subcribed to our lovely newsletter"
+  "ratings": {
+    "description": "Some random ratings to paginate",
+    "contents": [
+        { "id": 1, "firstName": "Ginette", "content": "I just like it" },
+        { "id": 2, "firstName": "Robert", "content": "I don't know who code this product but seems it they are smart" },
+        { "id": 3, "firstName": "Jacques", "content": "J'apprécie plus le pain, le pâté, le saucisson, que les limitations de vitesse" },
+        { "id": 4, "firstName": "Albertine", "content": "I don't know what to write" },
+        { "id": 5, "firstName": "GalaGala", "content": "Yes my name really exists" },
+        { "id": 6, "firstName": "Godefroy", "content": "Not de montmirail" },
+        { "id": 7, "firstName": "Alibert", "content": "This name does not inspire me" },
+        { "id": 8, "firstName": "Anathalie", "content": "Concatenation of Ana and Nathalie" },
+        { "id": 9, "firstName": "Gertrude", "content": "Unfortunately there is people with this name" },
+        { "id": 10, "firstName": "Perceval", "content": "Arthur is my friend" },
+        { "id": 11, "firstName": "Herbert", "content": "What ?" },
+        { "id": 12, "firstName": "Stanislas", "content": "I know a king or sort of with this name" },
+        { "id": 13, "firstName": "Alphonsine", "content": "Yea, you read right" },
+        { "id": 14, "firstName": "Aglaé", "content": "Not a flower" },
+        { "id": 15, "firstName": "Lucien", "content": "lulu for my boyz" }
+    ]
   }
 }
