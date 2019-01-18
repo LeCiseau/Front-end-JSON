@@ -20,10 +20,11 @@
     { "id": 3, "title": "Omelette", "comment": "Be a developer at LeCiseau is maybe the best thing that happened in my life", "photo": "https://d2wxo3sy6usg49.cloudfront.net.fasterimage.io/img/hairdressers/5b7d6b243eac3.png"},
     { "id": 4, "title": "Nathasha", "comment": "Our salon increased his revenue by 4200% ! I can now buy expensive sh*t to style my clients", "photo": "https://d2wxo3sy6usg49.cloudfront.net.fasterimage.io/img/hairdressers/59c27c829540e.jpeg" },
     { "id": 5, "title": "Steve", "comment": "My worldwide company trusts LeCiseau, you can go blind", "photo": "https://d2wxo3sy6usg49.cloudfront.net.fasterimage.io/img/hairdressers/5bd2d833b95f9.png" },
-    { "id": 6, "title": "", "comment": "Refreshing, stunning... there is no enough words to explain how the tech is amazing there", "photo": "https://d2wxo3sy6usg49.cloudfront.net.fasterimage.io/img/hairdressers/5b7d4254296cf.jpg" }
+    { "id": 6, "title": "Dan", "comment": "Refreshing, stunning... there is no enough words to explain how the tech is amazing there", "photo": "https://d2wxo3sy6usg49.cloudfront.net.fasterimage.io/img/hairdressers/5b7d4254296cf.jpg" }
   ],
       "video": {
         "title": "What is LeCiseau",
+        "description": "This little piece of art will explain to you",
         "src": "https://www.youtube.com/watch?list=PLUndIPKSZI5SmSDk4n7G-zCd9R4aSRUI8&v=91DWqqrPCEU"
   },
   "testPost": {
