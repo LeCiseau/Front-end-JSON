@@ -4,6 +4,16 @@
     "subTitle": "Seems you want to join us ?",
     "phoneImg": "https://i.ibb.co/LndLddd/iphone-mockup.png"
   },
+  "buttons": {
+    "website": {
+        "link": "https://leciseau.fr",
+        "text": "Website"
+    },
+    "blog": {
+         "link": "https://www.leciseau.fr/blog/lesalon/",
+         "text": "Blog"
+    }
+  },
   "comments": [
     { "id": 1, "title": "Mustapha", "comment": "I am just simply the best hairdresser of LeCiseau", "photo": "https://d2wxo3sy6usg49.cloudfront.net.fasterimage.io/img/hairdressers/59c92d0978763.jpeg" },
     { "id": 2, "title": "Jean-Michel", "comment": "Dude look how happy am I when I use LeCiseau",  "photo": "https://d2wxo3sy6usg49.cloudfront.net.fasterimage.io/img/hairdressers/5bc60ef695fad.png" },
